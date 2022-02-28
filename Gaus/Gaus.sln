@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaus", "Gaus\Gaus.csproj", "{DDDB53F2-15DC-43E6-B004-888A91DE3D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GausExample", "GausExample\GausExample.csproj", "{DAB7174C-E26D-4E5C-BE4D-4FB2B6B65A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDB53F2-15DC-43E6-B004-888A91DE3D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDB53F2-15DC-43E6-B004-888A91DE3D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDB53F2-15DC-43E6-B004-888A91DE3D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDB53F2-15DC-43E6-B004-888A91DE3D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB7174C-E26D-4E5C-BE4D-4FB2B6B65A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB7174C-E26D-4E5C-BE4D-4FB2B6B65A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB7174C-E26D-4E5C-BE4D-4FB2B6B65A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB7174C-E26D-4E5C-BE4D-4FB2B6B65A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {583BD49C-6873-4E57-AE76-708742003C5D}
+	EndGlobalSection
+EndGlobal
